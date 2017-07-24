@@ -10,7 +10,9 @@ if(1<2){
     console.log("Really?");
     console.log("Dou Ni Wan Ne He he");
 }
-
+function Person(name){
+    console.log(this.name);
+}
 
 
 
