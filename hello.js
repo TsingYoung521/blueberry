@@ -12,7 +12,7 @@ if(1<2){
 }
 
 function Person2(age) {
-    console.log(this.age);
+    alert(this.age);
 }
 function Person(name){
     console.log(this.name);
