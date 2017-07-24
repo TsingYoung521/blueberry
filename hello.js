@@ -11,9 +11,6 @@ if(1<2){
     console.log("Dou Ni Wan Ne He he");
 }
 
-function Person2(age) {
-    console.log(this.age);
-}
 function Person(name){
     console.log(this.name);
 }
