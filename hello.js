@@ -15,5 +15,7 @@ function Person(name){
     console.log(this.name);
 }
 
-
+function Animal(age){
+    console.log(this.age);
+}
 
