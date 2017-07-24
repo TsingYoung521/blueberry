@@ -11,4 +11,14 @@ if(1<2){
     console.log("Dou Ni Wan Ne He he");
 }
 
+<<<<<<< HEAD
+=======
+function Person(name){
+    console.log(this.name);
+}
+
+function Animal(age){
+    console.log(this.age);
+}
+>>>>>>> 1db289753ff2e95fb8dcc1a7e9798ff38e0bb1da
 
