@@ -7,6 +7,7 @@ console.log("haha");
 console.log("Hello Word1");
 if(1<2){
     alert("I Love You For Ever");
+    console.log("Dou Ni Wan Ne He he");
 }
 
 
