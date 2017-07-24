@@ -4,5 +4,5 @@
 
 console.log("Hello Word1");
 
-console.log("Hello Word2");
+
 
