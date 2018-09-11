@@ -15,6 +15,7 @@ if(1<2){
 =======
 function Person(name){
     console.log(this.name);
+    console.log(666);
 }
 
 function Animal(age){
